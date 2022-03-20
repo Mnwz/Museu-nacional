@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #f4f2ec url(../../media/fundo.png) repeat-x;
+    font: 12px "Lucida Grande", "Lucida Sans Unicode", Arial, sans-serif;
+}
+#container {
+    width: 1080px;
+    margin: auto;
+}
+header {
+    padding: 15px 0;
+    height: 55px;
+}
